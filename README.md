@@ -83,9 +83,7 @@ Footer
 ### 5.2 ส่วนไหนถูกย้าย/ซ่อน/ย่อให้กระชับ?
 
 เมนูแนวนอน → เมนูแนวตั้ง
-
 ตารางงาน → ซ่อนบนมือถือ
-
 การ์ดหลายใบ → เรียงลงในแนวตั้ง
 
 ### 5.3 Media Queries ที่ใช้ (อธิบายแนวคิดสั้น ๆ)
@@ -117,10 +115,8 @@ Footer
 
 - ❌ Card แต่ละใบมีโครงสร้างซ้ำกัน  
   → ✔ สร้าง class .card เพื่อใช้ร่วมกัน ลด CSS ซ้ำซ้อน  
-
 - ❌ Layout ไม่เหมาะกับหลายขนาดหน้าจอ
   → ✔ ใช้ Flexbox และ Media Queries เพื่อรองรับ Responsive Design 
-
 - ❌ ตารางงานอ่านยากบนมือถือ
   → ✔ ซ่อนตารางเมื่อหน้าจอเล็ก และใช้ To-do list แทน
 
@@ -131,10 +127,10 @@ Footer
 กรอกข้อมูลหลังส่งงาน
 
 - **GitHub Repository:**  
-  https://github.com/_____
+  https://github.com/natthakit111/engce301-week4-ux-responsive
 
 - **GitHub Pages URL:**  
-  https://_____.github.io/engce301-week4-ux-responsive/
+  https://natthakit111.github.io/engce301-week4-ux-responsive/
 
 - **Screenshots:**  
   - Desktop ✔  
